@@ -6,6 +6,8 @@ git clone https://github.com/amitd-optimus/amittest.git
 mkdir sourcecode tags delivery
 git add sourcecode 
 gedit dummyfile.txt
+Amit Hello
+Updaing code
 git commit -m "message"
 git rm abc.txt
 git revert 006ab04535c8597c923519c8539425570dd91945
@@ -13,6 +15,7 @@ git status
 git checkout -b branch1
 git merge branch1
 git diff
+On my Local folder
 git status git diff HEAD
 git log
 git branch 
@@ -20,6 +23,10 @@ git checkout master
 git tag v1 -m "new version"
 git push --tags
 git push origin branch1
+
+Changed by Amit Dahiya
+
+
 
 
 
